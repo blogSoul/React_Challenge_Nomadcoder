@@ -9,9 +9,11 @@ import {
   Redirect,
   Switch
 } from "react-router-dom";
+import Header from "Components/Header"
 
 export default () => (
   <Router>
+    <Header />
     <Switch>
       <Route path="/" exact component={Home} />
       <Route path="/tv" component={TV} />
