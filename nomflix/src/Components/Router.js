@@ -2,6 +2,8 @@ import React from "react";
 import Home from "./Home";
 import TV from "./TV";
 import Search from "./Search";
+import Search from "Routes/Search";
+import Detail from "Routes/Detail";
 import {
   BrowserRouter as Router,
   Route,
@@ -17,6 +19,8 @@ export default () => (
       <Route path="/" exact component={Home} />
       <Route path="/tv" component={TV} />
       <Route path="/search" component={Search} />
+      <Route path="/movie/:id" component={Detail} />
+      <Route path="/show/:id" component={Detail} />
       <Redirect from="*" to="/" />
     </Switch>
   </Router>
