@@ -1,8 +1,7 @@
 import React from "react";
-//import { HashRouter as Router, Route } from "react-router-dom";
-import Home from "Routes/Home";
-import TV from "Routes/TV";
-import Search from "Routes/Search";
+import Home from "./Home";
+import TV from "./TV";
+import Search from "./Search";
 import {
   BrowserRouter as Router,
   Route,
