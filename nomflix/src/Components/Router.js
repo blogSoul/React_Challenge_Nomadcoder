@@ -2,8 +2,7 @@ import React from "react";
 import Home from "./Home";
 import TV from "./TV";
 import Search from "./Search";
-import Search from "Routes/Search";
-import Detail from "Routes/Detail";
+import Detail from "./Detail";
 import {
   BrowserRouter as Router,
   Route,
