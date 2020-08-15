@@ -1,8 +1,8 @@
 import React from "react";
-import Home from "./Home";
-import TV from "./TV";
-import Search from "./Search";
-import Detail from "./Detail";
+import Home from "../Routes/Home";
+import TV from "../Routes/TV";
+import Search from "../Routes/Search";
+import Detail from "../Routes/Detail";
 import {
   BrowserRouter as Router,
   Route,
