@@ -25,4 +25,4 @@
 
 ## Project Url 
 
-Url: <https://tender-hermann-719da9.netlify.app/#/>
+Url: <https://tender-hermann-719da9.netlify.app/>
