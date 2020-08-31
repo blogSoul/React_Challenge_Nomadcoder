@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/React_Challenge_Nomadcoder/nomflix/static/js/main.89f4abbf.chunk.js",
-    "main.js.map": "/React_Challenge_Nomadcoder/nomflix/static/js/main.89f4abbf.chunk.js.map",
-    "runtime-main.js": "/React_Challenge_Nomadcoder/nomflix/static/js/runtime-main.717070de.js",
-    "runtime-main.js.map": "/React_Challenge_Nomadcoder/nomflix/static/js/runtime-main.717070de.js.map",
-    "static/js/2.f14b393c.chunk.js": "/React_Challenge_Nomadcoder/nomflix/static/js/2.f14b393c.chunk.js",
-    "static/js/2.f14b393c.chunk.js.map": "/React_Challenge_Nomadcoder/nomflix/static/js/2.f14b393c.chunk.js.map",
-    "index.html": "/React_Challenge_Nomadcoder/nomflix/index.html",
-    "precache-manifest.9cd495837a62c7e5f44127865f367f80.js": "/React_Challenge_Nomadcoder/nomflix/precache-manifest.9cd495837a62c7e5f44127865f367f80.js",
-    "service-worker.js": "/React_Challenge_Nomadcoder/nomflix/service-worker.js",
-    "static/js/2.f14b393c.chunk.js.LICENSE.txt": "/React_Challenge_Nomadcoder/nomflix/static/js/2.f14b393c.chunk.js.LICENSE.txt",
-    "static/media/noPosterSmall.png": "/React_Challenge_Nomadcoder/nomflix/static/media/noPosterSmall.87a0eb6a.png"
+    "main.js": "/React_Challenge_Nomadcoder/static/js/main.89f4abbf.chunk.js",
+    "main.js.map": "/React_Challenge_Nomadcoder/static/js/main.89f4abbf.chunk.js.map",
+    "runtime-main.js": "/React_Challenge_Nomadcoder/static/js/runtime-main.7b94b59e.js",
+    "runtime-main.js.map": "/React_Challenge_Nomadcoder/static/js/runtime-main.7b94b59e.js.map",
+    "static/js/2.ebd8cbba.chunk.js": "/React_Challenge_Nomadcoder/static/js/2.ebd8cbba.chunk.js",
+    "static/js/2.ebd8cbba.chunk.js.map": "/React_Challenge_Nomadcoder/static/js/2.ebd8cbba.chunk.js.map",
+    "index.html": "/React_Challenge_Nomadcoder/index.html",
+    "precache-manifest.00220c535a98d7906ba6aad32a40c9d3.js": "/React_Challenge_Nomadcoder/precache-manifest.00220c535a98d7906ba6aad32a40c9d3.js",
+    "service-worker.js": "/React_Challenge_Nomadcoder/service-worker.js",
+    "static/js/2.ebd8cbba.chunk.js.LICENSE.txt": "/React_Challenge_Nomadcoder/static/js/2.ebd8cbba.chunk.js.LICENSE.txt",
+    "static/media/noPosterSmall.png": "/React_Challenge_Nomadcoder/static/media/noPosterSmall.87a0eb6a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.717070de.js",
-    "static/js/2.f14b393c.chunk.js",
+    "static/js/runtime-main.7b94b59e.js",
+    "static/js/2.ebd8cbba.chunk.js",
     "static/js/main.89f4abbf.chunk.js"
   ]
 }
