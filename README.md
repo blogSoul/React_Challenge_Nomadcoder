@@ -22,3 +22,7 @@
 - [ ] Collections Link
 - [ ] /collections Route
 - [ ] On TV Show, show seasons and creators
+
+## Project Url 
+
+Url: <https://tender-hermann-719da9.netlify.app/#/>
