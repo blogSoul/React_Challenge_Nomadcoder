@@ -4,7 +4,7 @@ import TV from "../Routes/TV";
 import Search from "../Routes/Search";
 import Detail from "../Routes/Detail";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Redirect,
   Switch
