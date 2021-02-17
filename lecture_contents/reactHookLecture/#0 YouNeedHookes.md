@@ -30,3 +30,5 @@ npm에 publishing도 가능합니다. 혹시 필요하면 밑에 링크 참조!
 ## More
 
 [Go to Link](https://ko.reactjs.org/docs/hooks-reference.html) 에서 추가 hooks(=useReducer, useCallback, useMemo)를 배울 것!
+
+overflow CSS 단축 속성은 요소의 콘텐츠가 너무 커서 요소의 블록 서식 맥락에 맞출 수 없을 때의 처리법을 지정합니다. overflow-x, overflow-y의 값을 설정합니다.
